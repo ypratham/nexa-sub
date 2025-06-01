@@ -46,9 +46,6 @@ export default function Home() {
             </div>
             <div className="flex items-center space-x-4">
               <Link href="/auth/signin">
-                <Button variant="ghost">Sign In</Button>
-              </Link>
-              <Link href="/auth/signup">
                 <Button>Get Started</Button>
               </Link>
             </div>
