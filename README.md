@@ -4,7 +4,7 @@ A modern web application for managing and tracking your subscriptions with an in
 
 ## 🚀 Demo
 
-[Live Demo](deployment-url-here)
+[Live Demo](https://nexa-sub.vercel.app/)
 
 ## ✨ Features
 
