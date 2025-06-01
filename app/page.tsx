@@ -69,7 +69,7 @@ export default function Home() {
                 renewals, and optimize your budget.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
-                <Link href="/auth/signup">
+                <Link href="/auth/signin">
                   <Button
                     size="lg"
                     className="px-8 py-6 text-lg w-full sm:w-auto"
@@ -393,7 +393,7 @@ export default function Home() {
             Join thousands of users who are saving money and managing their
             subscriptions more effectively with NexaSub.
           </p>
-          <Link href="/auth/signup">
+          <Link href="/auth/signin">
             <Button size="lg" variant="secondary" className="px-8 py-6 text-lg">
               Get Started For Free <ArrowRight className="ml-2 h-5 w-5" />
             </Button>
